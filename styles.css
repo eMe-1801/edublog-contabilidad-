@@ -107,7 +107,7 @@ h3::before {
 }
 
 .target {
-  background-image: url("img/cont.jpg");
+  background-image: url("src/img/cont.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
